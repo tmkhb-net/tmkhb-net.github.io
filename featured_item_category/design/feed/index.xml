@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; tmkhb</title>
+	<atom:link href="http://tmkhb.net/featured_item_category/design/feed/?simply_static_page=906" rel="self" type="application/rss+xml" />
+	<link>http://www.tmkhb.net/</link>
+	<description></description>
+	<lastBuildDate>Sun, 28 Aug 2016 09:38:06 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Another Print Package</title>
+		<link>http://www.tmkhb.net/featured_item/another-print-package/</link>
+					<comments>http://www.tmkhb.net/featured_item/another-print-package/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:38:06 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8919</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ]]></content:encoded>
+					
+					<wfw:commentRss>http://www.tmkhb.net/featured_item/another-print-package/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FL3 Print Package</title>
+		<link>http://www.tmkhb.net/featured_item/fl3-print-package/</link>
+					<comments>http://www.tmkhb.net/featured_item/fl3-print-package/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:36:46 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8917</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
+										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-1513426033" >
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
+        data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_511217042">
+								<div class="img-inner dark" >
+			<img width="400" height="260" src="http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1.jpg 400w, http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1-300x195.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />						
+					</div>
+								
+<style>
+#image_511217042 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_162547543">
+								<div class="img-inner dark" >
+			<img width="400" height="260" src="http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1.jpg 400w, http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1-300x195.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />						
+					</div>
+								
+<style>
+#image_162547543 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1059193381">
+								<div class="img-inner dark" >
+			<img width="400" height="260" src="http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1.jpg 400w, http://www.tmkhb.net/wp-content/uploads/2016/08/dummy-1-300x195.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />						
+					</div>
+								
+<style>
+#image_1059193381 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+     	
+<style>
+#slider-1513426033 {
+  margin-bottom: 13px;
+}
+</style>
+</div>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://www.tmkhb.net/featured_item/fl3-print-package/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Awesome Pencil Poster</title>
+		<link>http://www.tmkhb.net/featured_item/awesome-pencil-poster/</link>
+					<comments>http://www.tmkhb.net/featured_item/awesome-pencil-poster/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:35:26 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8915</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></content:encoded>
+					
+					<wfw:commentRss>http://www.tmkhb.net/featured_item/awesome-pencil-poster/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Portfolio typography</title>
+		<link>http://www.tmkhb.net/featured_item/portfolio-typography/</link>
+					<comments>http://www.tmkhb.net/featured_item/portfolio-typography/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:29:58 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8913</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></content:encoded>
+					
+					<wfw:commentRss>http://www.tmkhb.net/featured_item/portfolio-typography/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flatsome Poster Print</title>
+		<link>http://www.tmkhb.net/featured_item/flatsome-poster-print/</link>
+					<comments>http://www.tmkhb.net/featured_item/flatsome-poster-print/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:25:23 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8909</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing eli [...]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://www.tmkhb.net/featured_item/flatsome-poster-print/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Magazine</title>
+		<link>http://www.tmkhb.net/featured_item/magazine/</link>
+					<comments>http://www.tmkhb.net/featured_item/magazine/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:22:57 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8890</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></content:encoded>
+					
+					<wfw:commentRss>http://www.tmkhb.net/featured_item/magazine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
